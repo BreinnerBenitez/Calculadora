@@ -2,6 +2,6 @@
 [ CLICK AQUI PARA VISUALIZAR ](https://breinnerbenitez.github.io/HTML5galeriaPractica/)
 ___
 
-### imagen
+### imagen 
 
  ![imagencarpeta](img/imagen.JPG)
